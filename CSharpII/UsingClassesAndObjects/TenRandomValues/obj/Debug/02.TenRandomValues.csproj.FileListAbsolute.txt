@@ -1,5 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\TenRandomValues\bin\Debug\TenRandomValues.exe.config
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\TenRandomValues\bin\Debug\TenRandomValues.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\TenRandomValues\bin\Debug\TenRandomValues.pdb
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\TenRandomValues\obj\Debug\TenRandomValues.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\TenRandomValues\obj\Debug\TenRandomValues.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkdaysCalculator\bin\Debug\WorkdaysCalculator.exe.config
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkdaysCalculator\bin\Debug\WorkdaysCalculator.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkdaysCalculator\bin\Debug\WorkdaysCalculator.pdb
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkdaysCalculator\obj\Debug\WorkdaysCalculator.csprojResolveAssemblyReference.cache
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkdaysCalculator\obj\Debug\WorkdaysCalculator.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WorkdaysCalculator\obj\Debug\WorkdaysCalculator.pdb

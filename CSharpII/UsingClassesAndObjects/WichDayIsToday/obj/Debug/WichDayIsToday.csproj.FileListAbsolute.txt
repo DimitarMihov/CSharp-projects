@@ -1,1 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WichDayIsToday\bin\Debug\WichDayIsToday.exe.config

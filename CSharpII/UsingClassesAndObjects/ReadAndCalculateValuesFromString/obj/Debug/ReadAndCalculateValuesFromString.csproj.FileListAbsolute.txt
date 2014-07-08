@@ -1,6 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\ReadAndCalculateValuesFromString\bin\Debug\ReadAndCalculateValuesFromString.exe.config
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\ReadAndCalculateValuesFromString\bin\Debug\ReadAndCalculateValuesFromString.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\ReadAndCalculateValuesFromString\bin\Debug\ReadAndCalculateValuesFromString.pdb
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\ReadAndCalculateValuesFromString\obj\Debug\ReadAndCalculateValuesFromString.csprojResolveAssemblyReference.cache
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\ReadAndCalculateValuesFromString\obj\Debug\ReadAndCalculateValuesFromString.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\ReadAndCalculateValuesFromString\obj\Debug\ReadAndCalculateValuesFromString.pdb

@@ -1,1 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\TenRandomValues\bin\Debug\TenRandomValues.exe.config

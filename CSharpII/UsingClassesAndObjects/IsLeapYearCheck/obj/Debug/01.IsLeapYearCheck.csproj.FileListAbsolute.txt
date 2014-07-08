@@ -1,6 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\IsLeapYearCheck\bin\Debug\IsLeapYearCheck.exe.config
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\IsLeapYearCheck\bin\Debug\IsLeapYearCheck.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\IsLeapYearCheck\bin\Debug\IsLeapYearCheck.pdb
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\IsLeapYearCheck\obj\Debug\01.IsLeapYearCheck.csprojResolveAssemblyReference.cache
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\IsLeapYearCheck\obj\Debug\IsLeapYearCheck.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\IsLeapYearCheck\obj\Debug\IsLeapYearCheck.pdb

@@ -1,6 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\CalculateSurfaceOfTriangle\bin\Debug\CalculateSurfaceOfTriangle.exe.config
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\CalculateSurfaceOfTriangle\bin\Debug\CalculateSurfaceOfTriangle.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\CalculateSurfaceOfTriangle\bin\Debug\CalculateSurfaceOfTriangle.pdb
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\CalculateSurfaceOfTriangle\obj\Debug\CalculateSurfaceOfTriangle.csprojResolveAssemblyReference.cache
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\CalculateSurfaceOfTriangle\obj\Debug\CalculateSurfaceOfTriangle.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\CalculateSurfaceOfTriangle\obj\Debug\CalculateSurfaceOfTriangle.pdb

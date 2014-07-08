@@ -1,1 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\IsLeapYearCheck\bin\Debug\IsLeapYearCheck.exe.config

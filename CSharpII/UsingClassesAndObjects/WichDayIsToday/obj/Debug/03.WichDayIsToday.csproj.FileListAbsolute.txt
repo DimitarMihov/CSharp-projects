@@ -1,6 +1,0 @@
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WichDayIsToday\bin\Debug\WichDayIsToday.exe.config
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WichDayIsToday\bin\Debug\WichDayIsToday.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WichDayIsToday\bin\Debug\WichDayIsToday.pdb
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WichDayIsToday\obj\Debug\03.WichDayIsToday.csprojResolveAssemblyReference.cache
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WichDayIsToday\obj\Debug\WichDayIsToday.exe
-D:\Telerik\Visual Studio 2012\Projects\UsingClassesAndObjects\WichDayIsToday\obj\Debug\WichDayIsToday.pdb

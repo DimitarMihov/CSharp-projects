@@ -1,5 +1,7 @@
 ﻿namespace QuadraticEquation
 {
+    //Task 6 - Write a program that enters the coefficients a, b and c of a quadratic equation and calculates and prints its real roots. 
+    
     using System;
 
     class QuadraticEquation
@@ -19,6 +21,8 @@
 
             //Evaluation of D
             double discriminant = (bCoeff * bCoeff) - 4 * aCoeff * cCoeff;
+
+            //Finding roots
             if (discriminant == 0)
             {
                 rootOne = (-bCoeff) / 2 * aCoeff;

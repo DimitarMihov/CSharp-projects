@@ -8,7 +8,7 @@
     {
         static void Main()
         {
-            Console.Write("Enter a number N as the end of the sequence [1...N]");
+            Console.Write("Enter a number N as the end of the sequence [1...N]: ");
             int numberN = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= numberN; i++)

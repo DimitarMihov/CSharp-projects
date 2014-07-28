@@ -1,14 +1,14 @@
 ﻿namespace ElementsWithMaximalSum
 {
-    //Write a program that reads two integer numbers N and K and an array of N elements from the console.
-    //Find in the array those K elements that have maximal sum.
+    ////Write a program that reads two integer numbers N and K and an array of N elements from the console.
+    ////Find in the array those K elements that have maximal sum.
     
     using System;
     using System.Collections.Generic;
 
-    class ElementsWithMaximalSum
+     public class ElementsWithMaximalSum
     {
-        static void Main()
+        public static void Main()
         {
             Console.Write("Enter number of elements in an array: ");
             int numberOfElements = int.Parse(Console.ReadLine());

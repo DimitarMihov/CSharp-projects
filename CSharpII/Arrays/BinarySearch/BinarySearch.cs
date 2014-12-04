@@ -23,8 +23,18 @@
             Console.Write("Enter a value to find it's index: ");
             int valueToFind = int.Parse(Console.ReadLine());
 
-            
+            //Search with pre-defined method Array.BinarySearch()
+            int arrayIndex = Array.BinarySearch(array, valueToFind);
+            if (arrayIndex >= 0)
+            {
+                Console.WriteLine("The index returned by 'BinarySearch method' is {0}", arrayIndex); 
+            }
+            else
+            {
+                Console.WriteLine("Value not found!");
+            }
 
+            //Search with implemented algorithm "BinarySearch"
             int low = 0;
             int high = array.Length - 1;
             int? foundedValue = null;

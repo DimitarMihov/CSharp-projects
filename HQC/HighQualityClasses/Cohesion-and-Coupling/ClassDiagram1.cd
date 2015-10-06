@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CohesionAndCoupling.DistanceUtils">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CohesionAndCoupling.Figure2D">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAQAAAAEAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Figure2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CohesionAndCoupling.Figure3D">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABgAAAAAAAAAAgAAgACAAIAAAAAA=</HashCode>
+      <FileName>Figure3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CohesionAndCoupling.FileUtils">
+    <Position X="5.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAE=</HashCode>
+      <FileName>FileUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CohesionAndCoupling.UtilsExamples">
+    <Position X="7.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UtilsExamples.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
